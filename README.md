@@ -1,25 +1,24 @@
-# Awesome-Financial-Analysis-Trading-Strategy-Prompts
+# Awesome-Financial-Analysis-Trading-Strategy-Prompts 🚀
 
 <p align="center">
   <img src="./assets/banner.svg" alt="Top Financial Analysis & Trading Strategy Prompts" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Financial-Analysis-Trading-Strategy-Prompts"><img src="https://img.shields.io/badge/Awesome-List-fc60a8?style=flat-square&logo=awesomelists" alt="Awesome"/></a>
-  <a href="https://discord.gg"><img src="https://img.shields.io/badge/Discord-Community-7289da?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Financial-Analysis-Trading-Strategy-Prompts/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Financial-Analysis-Trading-Strategy-Prompts?style=flat-square&logo=github" alt="GitHub stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Financial-Analysis-Trading-Strategy-Prompts/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Financial-Analysis-Trading-Strategy-Prompts?style=flat-square&logo=github" alt="GitHub forks" /></a>
-  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?style=flat-square&logo=github" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
-# 📈 Top Financial Analysis & Trading Strategy Prompts
+# 📈 Top Financial Analysis & Trading Strategy Prompts 🤖
 
 > **A curated directory of top-tier SaaS platforms, AI prompt engineering frameworks, LLM financial analyst tools, and high-performance open-source algorithmic trading engines.**
 
-*Comprehensive guide for quantitative developers, algorithmic traders, financial analysts, and fintech engineers building automated trading pipelines, systematic factor investing strategies, AI-driven stock screeners, and backtesting systems.*
+*Comprehensive guide for quantitative developers 💻, algorithmic traders 📊, financial analysts 📑, and fintech engineers building automated trading pipelines, systematic factor investing strategies, AI-driven stock screeners, and backtesting systems.*
 
-**Last updated: November 2026**
+**Last updated: November 2026** 📅
 
 ---
 
@@ -31,16 +30,17 @@
 - [💡 Common AI Prompts for Financial Analysis](#-common-ai-prompts-for-financial-analysis)
 - [🛠️ How to Contribute](#️-how-to-contribute)
 - [⚠️ Disclaimer](#️-disclaimer)
+- [⭐ Star History](#-star-history)
 - [💖 Support & Thank You](#-support--thank-you)
 
 ---
 
 ## 🎯 Executive Summary & Highlights
 
-This repository tracks notable **SaaS/Commercial platforms** and **open-source projects** powering the modern quantitative finance and AI trading stack:
-- **LLM Prompt Engineering & Autonomous Financial Agents**: Multi-agent consensus architectures (`TradingAgents`, `ai-hedge-fund`, `claude-trading-skills`, `FinGPT`) synthesizing fundamental, technical, and macro indicators into actionable trading theses.
-- **Event-Driven & Vectorized Backtesting Engines**: High-performance execution environments (`LEAN`, `NautilusTrader`, `Backtrader`, `VectorBT`, `Freqtrade`, `Jesse`) capable of simulating tick-level order books and multi-asset rebalancing.
-- **Open Investment Terminals & Data Feeds**: Modern, open data platforms (`OpenBB`, `yfinance`, `Alpaca`) liberating institutional-grade market data, SEC filings, and options analytics.
+This repository tracks notable **SaaS/Commercial platforms** ☁️ and **open-source projects** 💻 powering the modern quantitative finance and AI trading stack:
+- **🤖 LLM Prompt Engineering & Autonomous Financial Agents**: Multi-agent consensus architectures (`TradingAgents`, `ai-hedge-fund`, `claude-trading-skills`, `FinGPT`) synthesizing fundamental, technical, and macro indicators into actionable trading theses.
+- **⚡ Event-Driven & Vectorized Backtesting Engines**: High-performance execution environments (`LEAN`, `NautilusTrader`, `Backtrader`, `VectorBT`, `Freqtrade`, `Jesse`) capable of simulating tick-level order books and multi-asset rebalancing.
+- **🌐 Open Investment Terminals & Data Feeds**: Modern, open data platforms (`OpenBB`, `yfinance`, `Alpaca`) liberating institutional-grade market data, SEC filings, and options analytics.
 
 ---
 
@@ -52,7 +52,7 @@ The global Algorithmic Trading, Quantitative Analytics & AI Financial Research S
 
 ## ☁️ SaaS/Hosted & Commercial Platforms
 
-*Sorted descending by company valuation / annual revenue scale.*
+*Sorted descending by company valuation / annual revenue scale.* 🏆
 
 | Platform | Description | Company Scale (Valuation / Revenue) | Starting Paid Tier | Free Tier / Trial Limit |
 | :--- | :--- | :--- | :--- | :--- |
@@ -71,7 +71,7 @@ The global Algorithmic Trading, Quantitative Analytics & AI Financial Research S
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted descending by GitHub stars count. Click on any star badge to view stargazers.*
+*Sorted descending by GitHub stars count. Click on any star badge to view stargazers.* ✨
 
 | Project | License / Hosting Cost | Free Tier / Self-Hosted Limit | Description |
 | :--- | :--- | :--- | :--- |
@@ -101,9 +101,9 @@ The global Algorithmic Trading, Quantitative Analytics & AI Financial Research S
 
 ## 💡 Common AI Prompts for Financial Analysis
 
-Here are battle-tested prompt templates for quant research, financial statement analysis, and algorithmic strategy generation:
+Here are battle-tested prompt templates for quant research 🔬, financial statement analysis 📑, and algorithmic strategy generation ⚡:
 
-### 1. Fundamental 10-K / 10-Q Financial Ratio Analysis Prompt
+### 1. Fundamental 10-K / 10-Q Financial Ratio Analysis Prompt 📊
 ```text
 Act as a Chartered Financial Analyst (CFA) and Senior Equity Research Associate. 
 Analyze the following quarterly earnings report and balance sheet data for [TICKER]:
@@ -113,7 +113,7 @@ Analyze the following quarterly earnings report and balance sheet data for [TICK
 4. Synthesize bull vs. bear scenarios with a 12-month fair value estimate using a 2-stage Discounted Cash Flow (DCF) model.
 ```
 
-### 2. Systematic Mean-Reversion Strategy Prompt (Python / VectorBT)
+### 2. Systematic Mean-Reversion Strategy Prompt (Python / VectorBT) 🐍
 ```text
 Act as a Quantitative Strategist specializing in statistical arbitrage and mean-reversion.
 Generate an institutional-grade, vectorized Python strategy using vectorbt with the following specs:
@@ -125,7 +125,7 @@ Generate an institutional-grade, vectorized Python strategy using vectorbt with 
 - Output full Python code calculating Sharpe ratio, Max Drawdown, Calmar ratio, and monthly returns heatmap.
 ```
 
-### 3. Pine Script v5 Multi-Timeframe Trend-Following Prompt
+### 3. Pine Script v5 Multi-Timeframe Trend-Following Prompt 🌲
 ```text
 Act as an expert Pine Script v5 developer.
 Create a TradingView indicator and strategy script with:
@@ -139,13 +139,13 @@ Create a TradingView indicator and strategy script with:
 
 ## 🛠️ How to Contribute
 
-Contributions are highly welcome! Help keep this curated list accurate and up-to-date:
-1. **Fork** this repository.
-2. **Create a branch** for your addition or correction (`git checkout -b add-my-tool`).
+Contributions are highly welcome! 🙌 Help keep this curated list accurate and up-to-date:
+1. **Fork** this repository 🍴.
+2. **Create a branch** for your addition or correction (`git checkout -b add-my-tool`) 🌿.
 3. Add the SaaS platform or open-source repo ensuring:
-   - For SaaS: include specific starting pricing, free tier/trial limits, and revenue/valuation scale.
-   - For Open-Source: include license, short description, and correct GitHub stargazers badge.
-4. **Submit a Pull Request** with a brief summary of the project.
+   - For SaaS: include specific starting pricing, free tier/trial limits, and revenue/valuation scale 💰.
+   - For Open-Source: include license, short description, and correct GitHub stargazers badge 🏷️.
+4. **Submit a Pull Request** with a brief summary of the project 🚀.
 
 ---
 
@@ -155,9 +155,16 @@ Contributions are highly welcome! Help keep this curated list accurate and up-to
 
 ---
 
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Financial-Analysis-Trading-Strategy-Prompts&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Financial-Analysis-Trading-Strategy-Prompts&type=date&legend=top-left)
+
+---
+
 ## 💖 Support & Thank You
 
-If you find this repository valuable:
+Thank you so much for visiting and using this curated resource! 🙏 If you find this repository valuable:
 - ⭐ **Star this repository** to show your support and make it easier for other quant researchers to find.
+- 🍴 **Fork it** to customize your personal quant trading prompts and stack.
 - 🔄 **Share** with your quantitative finance, trading, and engineering networks.
 - 🐛 **Open an issue or PR** if you discover outdated pricing or want to add a high-impact open-source project.
+- ☕ **Support the Project & Buy a Coffee**: If this project helped your trading or research journey, consider sponsoring via the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007) — your support helps maintain and expand these open resources!
